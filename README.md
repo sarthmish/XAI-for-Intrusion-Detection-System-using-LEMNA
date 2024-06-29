@@ -28,11 +28,10 @@ This section presents the outcomes of our experiments, demonstrating the effecti
 # Conclusion and Future Scope
 We conclude with a summary of our findings and suggest directions for future research. The integration of XAI with IDS shows promise in improving the transparency and security of AI systems. Future work could explore further enhancements to the LEMNA algorithm and its application to other security-related problems.
 
-#References
+# References
 A comprehensive list of references cited throughout the project, providing additional resources for those interested in exploring the topic further.
 
-Getting Started
-Prerequisites
+# Prerequisites
 Python 3.7+
 TensorFlow
 NumPy
